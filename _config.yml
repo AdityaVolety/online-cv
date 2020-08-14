@@ -1,6 +1,6 @@
 # Site Settings
-title: Yogesh Jadhav - Curriculum Vitae
-url: 'http://pgyogesh.com'
+title: Aditya Volety - Curriculum Vitae
+url: 'http://adityavolety.com'
 baseurl: '/' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -11,18 +11,18 @@ baseurl: '/' #change it according to your repository name
 style: styles-6
 
 #Profile information
-name: Yogesh Jadhav
-tagline: Greenplum, MarkLogic Database Engineer and Python Programmer
+name: Aditya Volety
+tagline: Informatica, Unix, Big data Engineer and Business Intelligence
 pic: yogesh.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am a Database Engineer and working on  Greenplum Database and PostgreSQL Database Server at Epsilon India. Currently living in Bangalore, India. Previously I have worked as Greenplum, MarkLogic database administrator in Broadridge financial Solutions and Greenplum Database/DCA Support Engineer in Wipro Technologies for Pivotal Inc. My interests range from technology to travel. I am also interested in reading,blogging and listening to music. And I always try to be better version of myself.'
+summary: 'I am a Database Engineer and working on  Greenplum Database and PostgreSQL Database Server at Epsilon India. Currently living in Hyderabad, India. Previously I have worked as Greenplum, MarkLogic database administrator in Broadridge financial Solutions and Greenplum Database/DCA Support Engineer in Wipro Technologies for Pivotal Inc. My interests range from technology to travel. I am also interested in reading,blogging and listening to music. And I always try to be better version of myself.'
 
 #sidebar links
-email: yogeshjadhav96@gmail.com
-phone: +91-7676777797
-website: pgyogesh.com #do not add http://
-linkedin: pgyogesh
-github: pgyogesh
-twitter: '@pgyogesh_'
+email: vaditya826@gmail.com
+phone: +91-8143169188
+website: adityavolety.com #do not add http://
+linkedin: Aditya-vvs
+github: adityavolety
+twitter: '@pradivvs'
 #Update all the sections by editing the files inside _data folder.
 
 
